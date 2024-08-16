@@ -1,0 +1,7 @@
+torch
+torchvision
+boto3
+Pillow
+numpy
+segment_anything
+flask
